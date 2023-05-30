@@ -97,3 +97,7 @@ footer {
   border-radius: 16px;
   padding: 20px 50px 15px 30px;
 }
+/* increase the width of the text area */
+input[type="text"] {
+  width: 250px;
+}
